@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title> AI fuzzy matching </title>
+        <script>
+            function getPred(){
+                var str1 = document.getElementById('str1').value;
+                var str2 = document.getElementById("str2").value;
+                str1 = str1.replace(" ", "%20");
+                str2 = str2.replace(" ", "%20");
+                window.open("https://aifuzzy.mbdqwfss.repl.co?str1=" + str1 + "&str2=" + str2, "_blank");
+            }
+        </script>
+    </head>
+    <body>
+        <input type = "text" id = "str1" value = "Manchester United" />
+        <input type = "text" id = "str2" value = "Man Utd" />
+        <button onclick = "getPred()"> Get prediction</button>
+    </body>
+</html>

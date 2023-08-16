@@ -1,0 +1,269 @@
+phrase1, phrase2, similar
+Arizona Diamondbacks,Diamondbacks,True
+Arizona Diamondbacks,ARI,True
+Arizona Diamondbacks,D-backs,True
+Diamondbacks,ARI,True
+Diamondbacks,D-backs,True
+ARI,D-backs,True
+ARI,CHW,False
+Arizona Diamondbacks,Tigers,False
+WSH,Diamondbacks,False
+MIN,D-backs,False
+ARI,Orioles,False
+Arizona Diamondbacks,MIN,False
+Atlanta Braves,Braves,True
+Atlanta Braves,ATL,True
+Braves,ATL,True
+Braves,Mets,False
+Seattle Mariners,ATL,False
+Braves,DET,False
+Baltimore Orioles,Orioles,True
+Baltimore Orioles,BAL,True
+Orioles,BAL,True
+BAL,A's,False
+Astros,BAL,False
+Chicago Cubs,Orioles,False
+Boston Red Sox,Red Sox,True
+Boston Red Sox,BOS,True
+Red Sox,BOS,True
+BOS,NY Yankees,False
+ATL,BOS,False
+Philadelphia Phillies,Red Sox,False
+Chicago White Sox,White Sox,True
+Chicago White Sox,CHW,True
+White Sox,CHW,True
+SD Padres,Chicago White Sox,False
+Tigers,CHW,False
+Toronto Blue Jays,CHW,False
+Chicago Cubs,Cubs,True
+Chicago Cubs,CHC,True
+Cubs,CHC,True
+MIL,Cubs,False
+Orioles,Cubs,False
+Cubs,White Sox,False
+Cincinnati Reds,Reds,True
+Cincinnati Reds,CIN,True
+Reds,CIN,True
+Reds,Minnesota Twins,False
+Toronto Blue Jays,Reds,False
+Baltimore Orioles,Reds,False
+Cleveland Guardians,Guardians,True
+Cleveland Guardians,CLE,True
+Guardians,CLE,True
+LA Angels,Cleveland Guardians,False
+CLE,Baltimore Orioles,False
+CHW,Cleveland Guardians,False
+Colorado Rockies,Rockies,True
+Colorado Rockies,COL,True
+Rockies,COL,True
+A's,Colorado Rockies,False
+MIN,Rockies,False
+Red Sox,Rockies,False
+Detroit Tigers,Tigers,True
+Detroit Tigers,DET,True
+Tigers,DET,True
+Detroit Tigers,PHI,False
+San Diego Padres,Detroit Tigers,False
+DET,Athletics,False
+Houston Astros,Astros,True
+Houston Astros,HOU,True
+Astros,HOU,True
+NY Yankees,Houston Astros,False
+LAA,Astros,False
+MIN,Houston Astros,False
+Kansas City Royals,Royals,True
+Kansas City Royals,KC,True
+Kansas City Royals,KC Royals,True
+Royals,KC,True
+Royals,KC Royals,True
+KC,KC Royals,True
+Detroit Tigers,KC Royals,False
+Royals,Boston Red Sox,False
+KC,ARI,False
+Royals,PHI,False
+Mets,Royals,False
+KC,LA Dodgers,False
+Los Angeles Angels,Angels,True
+Los Angeles Angels,LAA,True
+Los Angeles Angels,Los Angeles Angels of Anaheim,True
+Los Angeles Angels,Los Angeles Angels (of Anaheim),True
+Los Angeles Angels,LA Angels,True
+Angels,LAA,True
+Angels,Los Angeles Angels of Anaheim,True
+Angels,Los Angeles Angels (of Anaheim),True
+Angels,LA Angels,True
+LAA,Los Angeles Angels of Anaheim,True
+LAA,Los Angeles Angels (of Anaheim),True
+LAA,LA Angels,True
+Los Angeles Angels of Anaheim,Los Angeles Angels (of Anaheim),True
+Los Angeles Angels of Anaheim,LA Angels,True
+Los Angeles Angels (of Anaheim),LA Angels,True
+Baltimore Orioles,Los Angeles Angels of Anaheim,False
+Arizona Diamondbacks,Angels,False
+Giants,Angels,False
+WSH,LAA,False
+COL,Los Angeles Angels,False
+Yankees,LA Angels,False
+Giants,LAA,False
+LAA,CHC,False
+St. Louis Cardinals,LAA,False
+Los Angeles Angels of Anaheim,NY Mets,False
+Washington Nats,Los Angeles Angels of Anaheim,False
+TEX,Angels,False
+Los Angeles Angels,Detroit Tigers,False
+NY Mets,Los Angeles Angels (of Anaheim),False
+Angels,HOU,False
+Los Angeles Dodgers,Dodgers,True
+Los Angeles Dodgers,LAD,True
+Los Angeles Dodgers,LA Dodgers,True
+Dodgers,LAD,True
+Dodgers,LA Dodgers,True
+LAD,LA Dodgers,True
+Angels,LAD,False
+LAD,Rays,False
+Dodgers,Tigers,False
+Los Angeles Dodgers,NYM,False
+Los Angeles Dodgers,Oakland Athletics,False
+Royals,Los Angeles Dodgers,False
+Miami Marlins,Marlins,True
+Miami Marlins,MIA,True
+Marlins,MIA,True
+Marlins,Cincinnati Reds,False
+SEA,MIA,False
+NYM,Marlins,False
+Milwaukee Brewers,Brewers,True
+Milwaukee Brewers,MIL,True
+Brewers,MIL,True
+Milwaukee Brewers,Rangers,False
+Arizona Diamondbacks,Milwaukee Brewers,False
+Brewers,OAK,False
+Minnesota Twins,Twins,True
+Minnesota Twins,MIN,True
+Twins,MIN,True
+CIN,MIN,False
+Minnesota Twins,San Francisco Giants,False
+Cincinnati Reds,Twins,False
+New York Yankees,Yankees,True
+New York Yankees,NYY,True
+New York Yankees,NY Yankees,True
+Yankees,NYY,True
+Yankees,NY Yankees,True
+NYY,NY Yankees,True
+NYY,PHI,False
+NYY,ARI,False
+Houston Astros,NYY,False
+New York Mets,Yankees,False
+NY Yankees,CIN,False
+CHW,NY Yankees,False
+New York Mets,Mets,True
+New York Mets,NYM,True
+New York Mets,NY Mets,True
+Mets,NYM,True
+Mets,NY Mets,True
+NYM,NY Mets,True
+Oakland Athletics,NYM,False
+NYM,Miami Marlins,False
+NYM,WSH,False
+Baltimore Orioles,NY Mets,False
+SF,Mets,False
+SEA,NYM,False
+Oakland Athletics,Athletics,True
+Oakland Athletics,OAK,True
+Oakland Athletics,A's,True
+Athletics,OAK,True
+Athletics,A's,True
+OAK,A's,True
+OAK,Houston Astros,False
+Tigers,A's,False
+Oakland Athletics,CIN,False
+Athletics,SD,False
+OAK,White Sox,False
+Reds,Oakland Athletics,False
+Philadelphia Phillies,Phillies,True
+Philadelphia Phillies,PHI,True
+Phillies,PHI,True
+Philadelphia Phillies,Chicago Cubs,False
+Los Angeles Angels (of Anaheim),Phillies,False
+Royals,Philadelphia Phillies,False
+Pittsburgh Pirates,Pirates,True
+Pittsburgh Pirates,PIT,True
+Pirates,PIT,True
+LAD,Pirates,False
+Pittsburgh Pirates,CLE,False
+Chicago Cubs,Pittsburgh Pirates,False
+San Diego Padres,Padres,True
+San Diego Padres,SD,True
+San Diego Padres,SD Padres,True
+Padres,SD,True
+Padres,SD Padres,True
+SD,SD Padres,True
+San Diego Padres,Cleveland Guardians,False
+Atlanta Braves,SD,False
+SF,SD,False
+Padres,DET,False
+Tampa Bay Rays,SD,False
+Padres,NYM,False
+San Francisco Giants,Giants,True
+San Francisco Giants,SF,True
+San Francisco Giants,SF Giants,True
+Giants,SF,True
+Giants,SF Giants,True
+SF,SF Giants,True
+Toronto Blue Jays,Giants,False
+CLE,San Francisco Giants,False
+San Francisco Giants,NY Mets,False
+San Francisco Giants,Pittsburgh Pirates,False
+Giants,Athletics,False
+SF Giants,Boston Red Sox,False
+Seattle Mariners,Mariners,True
+Seattle Mariners,SEA,True
+Mariners,SEA,True
+Cincinnati Reds,Mariners,False
+WSH,Mariners,False
+Mariners,LAD,False
+St. Louis Cardinals,Cardinals,True
+St. Louis Cardinals,STL,True
+Cardinals,STL,True
+STL,Los Angeles Angels,False
+STL,Twins,False
+STL,Pittsburgh Pirates,False
+Tampa Bay Rays,Rays,True
+Tampa Bay Rays,TB,True
+Rays,TB,True
+MIL,TB,False
+Tampa Bay Rays,CIN,False
+Reds,Rays,False
+Texas Rangers,Rangers,True
+Texas Rangers,TEX,True
+Rangers,TEX,True
+Texas Rangers,Twins,False
+Texas Rangers,Detroit Tigers,False
+NY Mets,Rangers,False
+Toronto Blue Jays,Blue Jays,True
+Toronto Blue Jays,TOR,True
+Blue Jays,TOR,True
+Blue Jays,MIN,False
+KC Royals,Blue Jays,False
+Toronto Blue Jays,DET,False
+Washington Nationals,Nationals,True
+Washington Nationals,WSH,True
+Washington Nationals,Washington Nats,True
+Washington Nationals,Nats,True
+Nationals,WSH,True
+Nationals,Washington Nats,True
+Nationals,Nats,True
+WSH,Washington Nats,True
+WSH,Nats,True
+Washington Nats,Nats,True
+Washington Nats,Rangers,False
+Washington Nats,Phillies,False
+Mets,WSH,False
+Washington Nats,Tigers,False
+SD,WSH,False
+Nationals,Tigers,False
+Nationals,STL,False
+Brewers,Nats,False
+Washington Nats,Diamondbacks,False
+Nationals,St. Louis Cardinals,False
+New York Mets,New York Yankees,False
+Los Angeles Dodgers,losangeles dodgers,True
