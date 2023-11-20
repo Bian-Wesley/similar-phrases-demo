@@ -1,0 +1,918 @@
+phrase1,phrase2,lev,lcs,gram3,lev_init,short_all_caps,similar
+Arizona Diamondbacks,Diamondbacks,8,8.0,7,1,0,1
+Arizona Diamondbacks,ARI,17,17.0,16,2,2,1
+Arizona Diamondbacks,D-backs,14,14.0,13,1,0,1
+Diamondbacks,ARI,11,13.0,11,3,3,1
+Diamondbacks,D-backs,6,6.0,6,0.0,0,1
+ARI,D-backs,5,7.0,5,3,3,1
+ARI,CHW,3,6.0,2,3,3,0
+Arizona Diamondbacks,Tigers,18,22.0,21,2,0,0
+WSH,Diamondbacks,12,13.0,11,3,3,0
+MIN,D-backs,6,9.0,5,3,3,0
+ARI,Orioles,5,6.0,6,3,3,0
+Arizona Diamondbacks,MIN,18,19.0,18,3,3,0
+Atlanta Braves,Braves,8,8.0,7,1,0,1
+Atlanta Braves,ATL,11,11.0,10,2,2,1
+Braves,ATL,5,7.0,5,3,3,1
+Braves,Mets,5,6.0,6,1,0,0
+Seattle Mariners,ATL,13,13.0,14,3,3,0
+Braves,DET,5,7.0,5,3,3,0
+Baltimore Orioles,Orioles,10,10.0,9,1,0,1
+Baltimore Orioles,BAL,14,14.0,13,2,2,1
+Orioles,BAL,6,8.0,6,3,3,1
+BAL,A's,2,3.0,1,2,2,0
+Astros,BAL,6,7.0,5,2,2,0
+Chicago Cubs,Orioles,9,13.0,14,2,0,0
+Boston Red Sox,Red Sox,7,7.0,6,1,0,1
+Boston Red Sox,BOS,11,11.0,9,1,1,1
+Red Sox,BOS,6,8.0,5,2,2,1
+BOS,NY Yankees,9,11.0,8,3,3,0
+ATL,BOS,3,6.0,2,3,3,0
+Philadelphia Phillies,Red Sox,19,22.0,22,2,0,0
+Chicago White Sox,White Sox,8,8.0,7,1,0,1
+Chicago White Sox,CHW,14,14.0,14,2,2,1
+White Sox,CHW,8,10.0,7,3,3,1
+SD Padres,Chicago White Sox,14,20.0,19,3,0,0
+Tigers,CHW,6,9.0,5,3,3,0
+Toronto Blue Jays,CHW,17,20.0,14,3,3,0
+Chicago Cubs,Cubs,8,8.0,7,1,0,1
+Chicago Cubs,CHC,9,9.0,10,1,1,1
+Cubs,CHC,3,5.0,3,2,2,1
+MIL,Cubs,4,7.0,3,3,3,0
+Orioles,Cubs,6,9.0,7,1,0,0
+Cubs,White Sox,8,11.0,8,2,0,0
+Cincinnati Reds,Reds,11,11.0,10,1,0,1
+Cincinnati Reds,CIN,12,12.0,11,2,2,1
+Reds,CIN,4,7.0,3,3,3,1
+Reds,Minnesota Twins,13,15.0,14,2,0,0
+Toronto Blue Jays,Reds,14,15.0,15,3,0,0
+Baltimore Orioles,Reds,14,15.0,16,2,0,0
+Cleveland Guardians,Guardians,10,10.0,9,1,0,1
+Cleveland Guardians,CLE,16,16.0,15,2,2,1
+Guardians,CLE,9,12.0,8,3,3,1
+LA Angels,Cleveland Guardians,14,16.0,22,3,0,0
+CLE,Baltimore Orioles,15,16.0,15,3,3,0
+CHW,Cleveland Guardians,18,20.0,17,2,2,0
+Colorado Rockies,Rockies,9,9.0,8,1,0,1
+Colorado Rockies,COL,13,13.0,12,2,2,1
+Rockies,COL,6,8.0,6,3,3,1
+A's,Colorado Rockies,14,14.0,13,2,0,0
+MIN,Rockies,6,8.0,6,3,3,0
+Red Sox,Rockies,6,8.0,9,1,0,0
+Detroit Tigers,Tigers,8,8.0,7,1,0,1
+Detroit Tigers,DET,11,11.0,10,1,1,1
+Tigers,DET,5,7.0,5,2,2,1
+Detroit Tigers,PHI,13,15.0,12,3,3,0
+San Diego Padres,Detroit Tigers,13,18.0,23,2,0,0
+DET,Athletics,7,8.0,8,3,3,0
+Houston Astros,Astros,8,8.0,7,1,0,1
+Houston Astros,HOU,11,11.0,10,2,2,1
+Astros,HOU,5,7.0,5,3,3,1
+NY Yankees,Houston Astros,12,16.0,18,3,0,0
+LAA,Astros,6,7.0,5,2,2,0
+MIN,Houston Astros,13,15.0,12,3,3,0
+Kansas City Royals,Royals,12,12.0,10,2,0,1
+Kansas City Royals,KC,16,16.0,14,1,1,1
+Kansas City Royals,KC Royals,9,9.0,12,0.0,0,1
+Royals,KC,6,8.0,4,2,2,1
+Royals,KC Royals,3,3.0,2,2,0,1
+KC,KC Royals,7,7.0,6,1,1,1
+Detroit Tigers,KC Royals,11,17.0,17,3,0,0
+Royals,Boston Red Sox,12,16.0,14,2,0,0
+KC,ARI,3,5.0,1,3,3,0
+Royals,PHI,6,9.0,5,3,3,0
+Mets,Royals,5,8.0,6,1,0,0
+KC,LA Dodgers,10,12.0,7,3,3,0
+Los Angeles Angels,Angels,12,12.0,10,2,0,1
+Los Angeles Angels,LAA,15,15.0,15,0.0,0.0,1
+Los Angeles Angels,Los Angeles Angels of Anaheim,11,11.0,9,2,0,1
+Los Angeles Angels,Los Angeles Angels (of Anaheim),11,11.0,9,2,0,1
+Los Angeles Angels,LA Angels,9,9.0,12,0.0,0,1
+Angels,LAA,6,7.0,5,2,2,1
+Angels,Los Angeles Angels of Anaheim,23,23.0,19,4,0,1
+Angels,Los Angeles Angels (of Anaheim),23,23.0,19,4,0,1
+Angels,LA Angels,3,3.0,2,2,0,1
+LAA,Los Angeles Angels of Anaheim,26,26.0,24,2,2,1
+LAA,Los Angeles Angels (of Anaheim),26,26.0,24,2,2,1
+LAA,LA Angels,6,6.0,5,0.0,0.0,1
+Los Angeles Angels of Anaheim,Los Angeles Angels (of Anaheim),0.0,0.0,0.0,0.0,0,1
+Los Angeles Angels of Anaheim,LA Angels,20,20.0,21,2,0,1
+Los Angeles Angels (of Anaheim),LA Angels,20,20.0,21,2,0,1
+Baltimore Orioles,Los Angeles Angels of Anaheim,23,34.0,35,5,0,0
+Arizona Diamondbacks,Angels,17,20.0,21,1,0,0
+Giants,Angels,5,6.0,8,1,0,0
+WSH,LAA,3,6.0,2,3,3,0
+COL,Los Angeles Angels,16,17.0,15,3,3,0
+Yankees,LA Angels,5,8.0,11,3,0,0
+Giants,LAA,5,7.0,5,3,3,0
+LAA,CHC,3,6.0,2,3,3,0
+St. Louis Cardinals,LAA,15,15.0,15,3,3,0
+Los Angeles Angels of Anaheim,NY Mets,25,28.0,27,5,0,0
+Washington Nats,Los Angeles Angels of Anaheim,21,28.0,35,5,0,0
+TEX,Angels,5,7.0,5,3,3,0
+Los Angeles Angels,Detroit Tigers,14,22.0,25,3,0,0
+NY Mets,Los Angeles Angels (of Anaheim),25,28.0,27,5,0,0
+Angels,HOU,6,9.0,5,3,3,0
+Los Angeles Dodgers,Dodgers,12,12.0,10,2,0,1
+Los Angeles Dodgers,LAD,16,16.0,16,0.0,0.0,1
+Los Angeles Dodgers,LA Dodgers,9,9.0,12,0.0,0,1
+Dodgers,LAD,6,8.0,6,2,2,1
+Dodgers,LA Dodgers,3,3.0,2,2,0,1
+LAD,LA Dodgers,7,7.0,6,0.0,0.0,1
+Angels,LAD,6,7.0,5,2,2,0
+LAD,Rays,3,5.0,3,3,3,0
+Dodgers,Tigers,3,5.0,5,1,0,0
+Los Angeles Dodgers,NYM,18,20.0,16,3,3,0
+Los Angeles Dodgers,Oakland Athletics,16,24.0,29,2,0,0
+Royals,Los Angeles Dodgers,15,17.0,19,3,0,0
+Miami Marlins,Marlins,6,6.0,5,1,0,1
+Miami Marlins,MIA,10,10.0,9,2,2,1
+Marlins,MIA,5,6.0,6,2,2,1
+Marlins,Cincinnati Reds,12,16.0,17,2,0,0
+SEA,MIA,2,4.0,2,2,2,0
+NYM,Marlins,7,8.0,6,2,2,0
+Milwaukee Brewers,Brewers,10,10.0,9,1,0,1
+Milwaukee Brewers,MIL,14,14.0,13,2,2,1
+Brewers,MIL,7,10.0,6,3,3,1
+Milwaukee Brewers,Rangers,13,16.0,17,2,0,0
+Arizona Diamondbacks,Milwaukee Brewers,17,27.0,31,2,0,0
+Brewers,OAK,7,10.0,6,3,3,0
+Minnesota Twins,Twins,10,10.0,9,1,0,1
+Minnesota Twins,MIN,12,12.0,11,2,2,1
+Twins,MIN,3,4.0,4,3,3,1
+CIN,MIN,1,2.0,2,1,1,0
+Minnesota Twins,San Francisco Giants,15,19.0,28,3,0,0
+Cincinnati Reds,Twins,12,14.0,15,2,0,0
+New York Yankees,Yankees,9,9.0,7,2,0,1
+New York Yankees,NYY,13,13.0,13,0.0,0.0,1
+New York Yankees,NY Yankees,6,6.0,9,0.0,0,1
+Yankees,NYY,6,8.0,6,2,2,1
+Yankees,NY Yankees,3,3.0,2,2,0,1
+NYY,NY Yankees,7,7.0,6,0.0,0.0,1
+NYY,PHI,3,6.0,2,3,3,0
+NYY,ARI,3,6.0,2,3,3,0
+Houston Astros,NYY,13,15.0,12,3,3,0
+New York Mets,Yankees,9,12.0,14,2,0,0
+NY Yankees,CIN,9,11.0,8,3,3,0
+CHW,NY Yankees,10,13.0,8,3,3,0
+New York Mets,Mets,9,9.0,7,2,0,1
+New York Mets,NYM,10,10.0,10,0.0,0.0,1
+New York Mets,NY Mets,6,6.0,9,0.0,0,1
+Mets,NYM,4,5.0,3,2,2,1
+Mets,NY Mets,3,3.0,2,2,0,1
+NYM,NY Mets,4,4.0,3,0.0,0.0,1
+Oakland Athletics,NYM,16,18.0,15,3,3,0
+NYM,Miami Marlins,12,14.0,11,2,2,0
+NYM,WSH,3,6.0,2,3,3,0
+Baltimore Orioles,NY Mets,14,18.0,18,3,0,0
+SF,Mets,4,4.0,2,2,2,0
+SEA,NYM,3,6.0,2,3,3,0
+Oakland Athletics,Athletics,8,8.0,7,1,0,1
+Oakland Athletics,OAK,14,14.0,13,1,1,1
+Oakland Athletics,A's,15,15.0,14,1,0,1
+Athletics,OAK,9,10.0,8,2,2,1
+Athletics,A's,7,7.0,7,0.0,0,1
+OAK,A's,2,3.0,1,2,2,1
+OAK,Houston Astros,12,13.0,12,2,2,0
+Tigers,A's,5,6.0,4,1,0,0
+Oakland Athletics,CIN,16,18.0,15,3,3,0
+Athletics,SD,9,9.0,7,2,2,0
+OAK,White Sox,9,10.0,7,3,3,0
+Reds,Oakland Athletics,15,17.0,16,2,0,0
+Philadelphia Phillies,Phillies,13,13.0,12,1,0,1
+Philadelphia Phillies,PHI,18,18.0,17,2,2,1
+Phillies,PHI,5,5.0,5,2,2,1
+Philadelphia Phillies,Chicago Cubs,16,23.0,27,2,0,0
+Los Angeles Angels (of Anaheim),Phillies,26,29.0,29,5,0,0
+Royals,Philadelphia Phillies,18,21.0,22,2,0,0
+Pittsburgh Pirates,Pirates,11,11.0,10,1,0,1
+Pittsburgh Pirates,PIT,15,15.0,14,2,2,1
+Pirates,PIT,4,4.0,6,2,2,1
+LAD,Pirates,6,8.0,6,3,3,0
+Pittsburgh Pirates,CLE,17,19.0,16,3,3,0
+Chicago Cubs,Pittsburgh Pirates,15,22.0,24,2,0,0
+San Diego Padres,Padres,10,10.0,8,2,0,1
+San Diego Padres,SD,14,14.0,12,1,1,1
+San Diego Padres,SD Padres,7,7.0,10,0.0,0,1
+Padres,SD,5,6.0,4,2,2,1
+Padres,SD Padres,3,3.0,2,2,0,1
+SD,SD Padres,7,7.0,6,1,1,1
+San Diego Padres,Cleveland Guardians,15,21.0,26,3,0,0
+Atlanta Braves,SD,14,14.0,11,2,2,0
+SF,SD,1,2.0,0,1,1,0
+Padres,DET,4,5.0,5,3,3,0
+Tampa Bay Rays,SD,14,14.0,10,3,3,0
+Padres,NYM,6,9.0,5,3,3,0
+San Francisco Giants,Giants,14,14.0,12,2,0,1
+San Francisco Giants,SF,18,18.0,16,1,1,1
+San Francisco Giants,SF Giants,11,11.0,14,0.0,0,1
+Giants,SF,6,6.0,4,2,2,1
+Giants,SF Giants,3,3.0,2,2,0,1
+SF,SF Giants,7,7.0,6,1,1,1
+Toronto Blue Jays,Giants,14,17.0,17,3,0,0
+CLE,San Francisco Giants,19,21.0,17,3,3,0
+San Francisco Giants,NY Mets,16,19.0,20,3,0,0
+San Francisco Giants,Pittsburgh Pirates,17,24.0,31,3,0,0
+Giants,Athletics,7,9.0,11,1,0,0
+SF Giants,Boston Red Sox,12,17.0,16,3,0,0
+Seattle Mariners,Mariners,8,8.0,7,1,0,1
+Seattle Mariners,SEA,13,13.0,12,2,2,1
+Mariners,SEA,7,9.0,7,3,3,1
+Cincinnati Reds,Mariners,11,15.0,18,2,0,0
+WSH,Mariners,8,9.0,7,3,3,0
+Mariners,LAD,7,9.0,7,3,3,0
+St. Louis Cardinals,Cardinals,9,9.0,7,2,0,1
+St. Louis Cardinals,STL,15,15.0,13,2,2,1
+Cardinals,STL,8,10.0,8,3,3,1
+STL,Los Angeles Angels,16,17.0,15,3,3,0
+STL,Twins,5,6.0,4,2,2,0
+STL,Pittsburgh Pirates,16,17.0,16,3,3,0
+Tampa Bay Rays,Rays,10,10.0,8,2,0,1
+Tampa Bay Rays,TB,12,12.0,10,1,1,1
+Rays,TB,4,6.0,2,2,2,1
+MIL,TB,3,5.0,1,3,3,0
+Tampa Bay Rays,CIN,14,17.0,11,3,3,0
+Reds,Rays,2,4.0,4,0.0,0,0
+Texas Rangers,Rangers,6,6.0,5,1,0,1
+Texas Rangers,TEX,10,10.0,9,2,2,1
+Rangers,TEX,6,8.0,6,3,3,1
+Texas Rangers,Twins,10,12.0,13,1,0,0
+Texas Rangers,Detroit Tigers,9,15.0,17,2,0,0
+NY Mets,Rangers,5,8.0,9,3,0,0
+Toronto Blue Jays,Blue Jays,8,8.0,7,1,0,1
+Toronto Blue Jays,TOR,14,14.0,12,2,2,1
+Blue Jays,TOR,9,12.0,7,3,3,1
+Blue Jays,MIN,9,12.0,7,3,3,0
+KC Royals,Blue Jays,7,12.0,12,3,0,0
+Toronto Blue Jays,DET,16,18.0,14,3,3,0
+Washington Nationals,Nationals,11,11.0,10,1,0,1
+Washington Nationals,WSH,17,17.0,18,2,2,1
+Washington Nationals,Washington Nats,5,5.0,7,0.0,0,1
+Washington Nationals,Nats,16,16.0,17,1,0,1
+Nationals,WSH,9,10.0,8,3,3,1
+Nationals,Washington Nats,9,12.0,17,1,0,1
+Nationals,Nats,5,5.0,7,0.0,0,1
+WSH,Washington Nats,12,12.0,13,2,2,1
+WSH,Nats,4,5.0,3,3,3,1
+Washington Nats,Nats,11,11.0,10,1,0,1
+Washington Nats,Rangers,11,14.0,17,2,0,0
+Washington Nats,Phillies,12,17.0,18,2,0,0
+Mets,WSH,4,5.0,3,3,3,0
+Washington Nats,Tigers,12,15.0,16,2,0,0
+SD,WSH,2,3.0,1,2,2,0
+Nationals,Tigers,6,9.0,11,1,0,0
+Nationals,STL,7,8.0,8,3,3,0
+Brewers,Nats,6,9.0,7,1,0,0
+Washington Nats,Diamondbacks,11,17.0,22,2,0,0
+Nationals,St. Louis Cardinals,13,15.0,17,3,0,0
+New York Mets,New York Yankees,5,7.0,11,1,0,0
+Atlanta Hawks,Hawks,8,8.0,7,1,0,1
+Atlanta Hawks,ATL,10,10.0,9,2,2,1
+Hawks,ATL,4,6.0,4,3,3,1
+PHI,Hawks,5,6.0,4,2,2,0
+Sacramento Kings,ATL,14,15.0,14,3,3,0
+Bucks,ATL,5,8.0,4,3,3,0
+Boston Celtics,Celtics,7,7.0,6,1,0,1
+Boston Celtics,BOS,11,11.0,10,2,2,1
+Celtics,BOS,6,8.0,6,3,3,1
+Celtics,NOP,7,10.0,6,3,3,0
+Timberwolves,BOS,9,9.0,11,3,3,0
+Magic,BOS,5,8.0,4,3,3,0
+Brooklyn Nets,Nets,9,9.0,8,1,0,1
+Brooklyn Nets,BKN,10,10.0,11,1,1,1
+Nets,BKN,4,5.0,3,2,2,1
+Philadelphia 76ers,Brooklyn Nets,14,23.0,25,2,0,0
+BKN,Detroit Pistons,14,16.0,13,3,3,0
+Cavaliers,BKN,9,12.0,8,3,3,0
+Charlotte Hornets,Hornets,10,10.0,9,1,0,1
+Charlotte Hornets,CHA,14,14.0,13,1,1,1
+Hornets,CHA,7,8.0,6,2,2,1
+Wizards,Hornets,6,10.0,10,1,0,0
+Hornets,Minnesota Timberwolves,18,21.0,24,2,0,0
+CHA,Milwaukee Bucks,14,16.0,13,3,3,0
+Chicago Bulls,Bulls,8,8.0,7,1,0,1
+Chicago Bulls,CHI,10,10.0,9,2,2,1
+Bulls,CHI,5,8.0,4,3,3,1
+CHI,Boston Celtics,12,13.0,12,3,3,0
+CHI,Celtics,5,6.0,6,2,2,0
+LAC,Chicago Bulls,12,14.0,11,3,3,0
+Cleveland Cavaliers,Cavaliers,10,10.0,9,1,0,1
+Cleveland Cavaliers,Cavs,15,15.0,16,1,0,1
+Cleveland Cavaliers,CLE,16,16.0,15,2,2,1
+Cavaliers,Cavs,5,5.0,7,0.0,0,1
+Cavaliers,CLE,6,6.0,8,2,2,1
+Cavs,CLE,3,5.0,3,2,2,1
+ATL,Cavaliers,7,8.0,8,3,3,0
+Cavaliers,UTA,8,10.0,8,3,3,0
+Milwaukee Bucks,Cleveland Cavaliers,17,22.0,28,2,0,0
+Miami Heat,Cavs,9,12.0,9,2,0,0
+OKC,Cavaliers,9,10.0,8,2,2,0
+Raptors,Cavs,5,7.0,7,1,0,0
+Dallas Mavericks,Mavericks,7,7.0,6,1,0,1
+Dallas Mavericks,Mavs,12,12.0,13,1,0,1
+Dallas Mavericks,DAL,13,13.0,12,2,2,1
+Mavericks,Mavs,5,5.0,7,0.0,0,1
+Mavericks,DAL,8,10.0,8,3,3,1
+Mavs,DAL,3,5.0,3,3,3,1
+DAL,Celtics,6,8.0,6,3,3,0
+Memphis Grizzlies,DAL,16,18.0,15,3,3,0
+Dallas Mavericks,ATL,14,15.0,14,3,3,0
+Dallas Mavericks,Pistons,14,19.0,18,2,0,0
+Mavs,Thunder,7,11.0,7,1,0,0
+Dallas Mavericks,Cavaliers,11,15.0,20,2,0,0
+Denver Nuggets,Nuggets,7,7.0,6,1,0,1
+Denver Nuggets,DEN,11,11.0,10,1,1,1
+Nuggets,DEN,6,8.0,6,2,2,1
+Pistons,DEN,6,8.0,6,3,3,0
+Denver Nuggets,BKN,13,15.0,12,2,2,0
+DEN,Memphis Grizzlies,16,18.0,15,3,3,0
+Detroit Pistons,Pistons,8,8.0,7,1,0,1
+Detroit Pistons,DET,12,12.0,11,2,2,1
+Pistons,DET,6,8.0,6,3,3,1
+IND,Detroit Pistons,13,14.0,13,3,3,0
+Utah Jazz,Pistons,9,14.0,11,2,0,0
+Pistons,Houston Rockets,10,12.0,13,2,0,0
+Golden State Warriors,Warriors,13,13.0,11,2,0,1
+Golden State Warriors,GSW,18,18.0,18,0.0,0.0,1
+Golden State Warriors,Golden State,9,9.0,8,1,0,1
+Warriors,GSW,8,9.0,7,2,2,1
+Warriors,Golden State,11,16.0,15,2,0,1
+GSW,Golden State,10,11.0,10,1,1,1
+Boston Celtics,Golden State Warriors,15,23.0,28,3,0,0
+GSW,Bucks,5,6.0,4,3,3,0
+Golden State,DET,9,9.0,10,3,3,0
+Los Angeles Lakers,Golden State,13,18.0,23,3,0,0
+Houston Rockets,GSW,14,16.0,13,3,3,0
+Celtics,GSW,7,8.0,6,3,3,0
+Houston Rockets,Rockets,8,8.0,7,1,0,1
+Houston Rockets,HOU,12,12.0,11,2,2,1
+Rockets,HOU,6,8.0,6,3,3,1
+Hornets,Houston Rockets,9,10.0,15,1,0,0
+New York Knicks,HOU,14,16.0,12,3,3,0
+Rockets,Mavericks,7,8.0,12,1,0,0
+Indiana Pacers,Pacers,8,8.0,7,1,0,1
+Indiana Pacers,IND,11,11.0,10,2,2,1
+Pacers,IND,6,9.0,5,3,3,1
+Indiana Pacers,Nets,11,12.0,13,2,0,0
+OKC,Pacers,5,7.0,5,3,3,0
+Pacers,Blazers,3,5.0,7,1,0,0
+LA Clippers,Clippers,3,3.0,2,2,0,1
+LA Clippers,LAC,8,8.0,7,0.0,0.0,1
+Clippers,LAC,7,9.0,7,2,2,1
+LA Clippers,DAL,9,10.0,9,2,2,0
+LAC,Jazz,3,5.0,3,3,3,0
+Utah Jazz,LA Clippers,11,16.0,14,3,0,0
+Los Angeles Lakers,Lakers,12,12.0,10,2,0,1
+Los Angeles Lakers,LAL,15,15.0,15,0.0,0.0,1
+Los Angeles Lakers,LA Lakers,9,9.0,12,0.0,0,1
+Los Angeles Lakers,Lakeshow,14,16.0,16,2,0,1
+Lakers,LAL,4,5.0,5,2,2,1
+Lakers,LA Lakers,3,3.0,2,2,0,1
+Lakers,Lakeshow,4,4.0,6,0.0,0,1
+LAL,LA Lakers,6,6.0,5,0.0,0.0,1
+LAL,Lakeshow,6,7.0,7,2,2,1
+LA Lakers,Lakeshow,7,7.0,8,2,0,1
+Lakeshow,Raptors,7,11.0,11,1,0,0
+Knicks,Los Angeles Lakers,15,18.0,18,3,0,0
+LAL,MIN,3,6.0,2,3,3,0
+MIL,LAL,2,4.0,2,2,2,0
+LA Clippers,LAL,8,8.0,9,1,1,0
+Lakeshow,Rockets,7,9.0,11,1,0,0
+Lakeshow,Blazers,6,7.0,11,1,0,0
+LAL,Denver Nuggets,14,17.0,12,3,3,0
+LA Lakers,Mavs,7,9.0,8,3,0,0
+76ers,Lakeshow,7,9.0,9,1,0,0
+Memphis Grizzlies,Grizzlies,8,8.0,7,1,0,1
+Memphis Grizzlies,MEM,14,14.0,13,2,2,1
+Grizzlies,MEM,8,10.0,8,3,3,1
+Memphis Grizzlies,CHI,15,16.0,15,3,3,0
+Grizzlies,Milwaukee Bucks,13,16.0,19,2,0,0
+Indiana Pacers,Grizzlies,11,15.0,18,2,0,0
+Miami Heat,Heat,6,6.0,5,1,0,1
+Miami Heat,MIA,7,7.0,6,2,2,1
+Heat,MIA,3,5.0,3,3,3,1
+MIA,Cleveland Cavaliers,18,20.0,17,3,3,0
+MIA,Wizards,5,6.0,6,3,3,0
+Miami Heat,Chicago Bulls,10,17.0,17,2,0,0
+Milwaukee Bucks,Bucks,10,10.0,9,1,0,1
+Milwaukee Bucks,MIL,12,12.0,11,2,2,1
+Bucks,MIL,5,8.0,4,3,3,1
+Oklahoma City Thunder,Milwaukee Bucks,17,28.0,29,3,0,0
+Miami Heat,Milwaukee Bucks,11,17.0,19,1,0,0
+Magic,MIL,3,4.0,4,2,2,0
+Minnesota Timberwolves,Timberwolves,10,10.0,9,1,0,1
+Minnesota Timberwolves,Wolves,16,16.0,15,2,0,1
+Minnesota Timberwolves,MIN,19,19.0,18,2,2,1
+Timberwolves,Wolves,6,6.0,6,1,0,1
+Timberwolves,MIN,11,13.0,11,3,3,1
+Wolves,MIN,6,9.0,5,3,3,1
+TOR,Timberwolves,10,11.0,11,2,2,0
+Heat,Minnesota Timberwolves,19,20.0,21,2,0,0
+Timberwolves,Cavs,10,12.0,12,1,0,0
+Wolves,MIA,6,9.0,5,3,3,0
+Wolves,76ers,5,7.0,7,1,0,0
+Minnesota Timberwolves,TOR,20,21.0,20,3,3,0
+New Orleans Pelicans,Pelicans,12,12.0,10,2,0,1
+New Orleans Pelicans,NOP,17,17.0,17,0.0,0.0,1
+New Orleans Pelicans,NOLA,16,16.0,18,2,2,1
+Pelicans,NOP,8,9.0,7,2,2,1
+Pelicans,NOLA,6,8.0,8,4,4,1
+NOP,NOLA,2,3.0,3,2,2,1
+OKC,NOP,3,4.0,2,3,3,0
+NOP,CHI,3,6.0,2,3,3,0
+NYK,Pelicans,8,9.0,7,3,3,0
+New Orleans Pelicans,Rockets,17,21.0,21,3,0,0
+New Orleans Pelicans,Los Angeles Lakers,14,20.0,30,3,0,0
+NOLA,DET,4,7.0,3,4,4,0
+New York Knicks,Knicks,9,9.0,7,2,0,1
+New York Knicks,NYK,12,12.0,12,0.0,0.0,1
+Knicks,NYK,4,5.0,5,2,2,1
+NYK,Jazz,4,7.0,3,3,3,0
+Knicks,Magic,5,7.0,7,1,0,0
+New York Knicks,Milwaukee Bucks,11,18.0,21,3,0,0
+Oklahoma City Thunder,Thunder,14,14.0,12,2,0,1
+Oklahoma City Thunder,OKC,18,18.0,18,2,2,1
+Thunder,OKC,7,10.0,6,3,3,1
+Thunder,Suns,5,7.0,7,1,0,0
+Chicago Bulls,Oklahoma City Thunder,17,26.0,27,2,0,0
+Knicks,Thunder,7,11.0,9,1,0,0
+Orlando Magic,Magic,8,8.0,7,1,0,1
+Orlando Magic,ORL,10,10.0,9,2,2,1
+Magic,ORL,5,8.0,4,3,3,1
+SAC,ORL,3,6.0,2,3,3,0
+Orlando Magic,MEM,12,14.0,11,2,2,0
+76ers,ORL,4,6.0,4,3,3,0
+Philadelphia 76ers,76ers,13,13.0,12,1,0,1
+Philadelphia 76ers,Sixers,14,16.0,17,2,0,1
+Philadelphia 76ers,PHI,15,15.0,14,2,2,1
+76ers,Sixers,3,5.0,5,1,0,1
+76ers,PHI,5,8.0,4,3,3,1
+Sixers,PHI,6,7.0,5,3,3,1
+WAS,PHI,3,6.0,2,3,3,0
+Philadelphia 76ers,Clippers,13,16.0,19,2,0,0
+NYK,76ers,5,8.0,4,3,3,0
+Philadelphia 76ers,MIL,16,17.0,16,3,3,0
+PHI,BKN,3,6.0,2,3,3,0
+Sixers,BKN,6,9.0,5,3,3,0
+Phoenix Suns,Suns,8,8.0,7,1,0,1
+Phoenix Suns,PHX,9,9.0,10,2,2,1
+Suns,PHX,4,7.0,3,3,3,1
+Wolves,PHX,6,9.0,5,3,3,0
+PHX,BKN,3,6.0,2,3,3,0
+SA,Phoenix Suns,11,12.0,9,2,2,0
+Portland Trail Blazers,Trail Blazers,9,9.0,8,1,0,1
+Portland Trail Blazers,Blazers,15,15.0,13,2,0,1
+Portland Trail Blazers,POR,19,19.0,17,2,2,1
+Trail Blazers,Blazers,6,6.0,5,1,0,1
+Trail Blazers,POR,12,14.0,11,3,3,1
+Blazers,POR,6,8.0,6,3,3,1
+Portland Trail Blazers,MIL,20,21.0,19,3,3,0
+Thunder,POR,6,8.0,6,3,3,0
+Trail Blazers,Raptors,9,12.0,15,2,0,0
+Nuggets,Trail Blazers,11,16.0,15,2,0,0
+Suns,Trail Blazers,12,15.0,12,2,0,0
+WAS,Portland Trail Blazers,20,21.0,19,3,3,0
+Sacramento Kings,Kings,11,11.0,10,1,0,1
+Sacramento Kings,SAC,13,13.0,12,2,2,1
+Kings,SAC,5,6.0,4,3,3,1
+BOS,SAC,3,4.0,2,3,3,0
+Sacramento Kings,Chicago Bulls,12,19.0,23,2,0,0
+Rockets,Kings,6,8.0,8,1,0,0
+San Antonio Spurs,Spurs,12,12.0,10,2,0,1
+San Antonio Spurs,SA,15,15.0,13,1,1,1
+Spurs,SA,4,5.0,3,1,1,1
+SAC,Spurs,4,6.0,4,2,2,0
+Spurs,BOS,4,6.0,4,2,2,0
+Spurs,Utah Jazz,9,12.0,9,2,0,0
+Toronto Raptors,Raptors,8,8.0,7,1,0,1
+Toronto Raptors,TOR,12,12.0,11,1,1,1
+Raptors,TOR,4,4.0,4,2,2,1
+Raptors,Grizzlies,7,12.0,12,1,0,0
+TOR,Atlanta Hawks,12,14.0,11,3,3,0
+DAL,Raptors,6,8.0,6,3,3,0
+Utah Jazz,Jazz,5,5.0,4,1,0,1
+Utah Jazz,UTA,6,6.0,5,2,2,1
+Jazz,UTA,4,5.0,3,3,3,1
+Washington Wizards,UTA,16,17.0,16,3,3,0
+Jazz,Orlando Magic,12,15.0,12,2,0,0
+Utah Jazz,Rockets,9,14.0,11,2,0,0
+Washington Wizards,Wizards,11,11.0,10,1,0,1
+Washington Wizards,WAS,15,15.0,14,2,2,1
+Wizards,WAS,4,4.0,6,2,2,1
+WAS,ORL,3,6.0,2,3,3,0
+WAS,Philadelphia 76ers,16,17.0,16,3,3,0
+Wizards,BKN,7,10.0,6,3,3,0
+Anaheim Ducks,Ducks,8,8.0,7,1,0,1
+Anaheim Ducks,ANA,10,10.0,9,2,2,1
+Ducks,ANA,5,8.0,4,3,3,1
+Ducks,Edmonton Oilers,13,16.0,15,2,0,0
+ANA,Minnesota Wild,12,13.0,12,3,3,0
+Ducks,WPG,5,8.0,4,3,3,0
+Arizona Coyotes,Coyotes,8,8.0,7,1,0,1
+Arizona Coyotes,ARI,12,12.0,11,2,2,1
+Coyotes,ARI,7,10.0,6,3,3,1
+ARI,Los Angeles Kings,15,16.0,14,3,3,0
+Kings,Arizona Coyotes,12,14.0,15,2,0,0
+OTT,Coyotes,5,6.0,6,3,3,0
+Boston Bruins,Bruins,7,7.0,6,1,0,1
+Boston Bruins,BOS,10,10.0,9,2,2,1
+Bruins,BOS,4,5.0,5,2,2,1
+Bruins,Stars,5,7.0,7,1,0,0
+Bruins,EDM,6,9.0,5,3,3,0
+WPG,BOS,3,6.0,2,3,3,0
+Buffalo Sabres,Sabres,8,8.0,7,1,0,1
+Buffalo Sabres,BUF,11,11.0,10,2,2,1
+Sabres,BUF,5,7.0,5,3,3,1
+BUF,Vegas Golden Knights,20,23.0,17,3,3,0
+BUF,Detroit Red Wings,17,20.0,14,3,3,0
+BUF,Florida Panthers,16,17.0,14,3,3,0
+Calgary Flames,Flames,8,8.0,7,1,0,1
+Calgary Flames,CAL,11,11.0,10,2,2,1
+Flames,CAL,5,7.0,5,3,3,1
+CAL,St. Louis Blues,13,15.0,11,3,3,0
+DET,Flames,5,7.0,5,3,3,0
+Flames,Colorado Avalanche,16,18.0,19,2,0,0
+Carolina Hurricanes,Hurricanes,9,9.0,8,1,0,1
+Carolina Hurricanes,CAR,16,16.0,15,2,2,1
+Hurricanes,CAR,8,9.0,9,3,3,1
+Lightning,CAR,9,12.0,8,3,3,0
+Montreal Canadiens,Carolina Hurricanes,16,19.0,29,2,0,0
+Hurricanes,Sabres,7,10.0,12,1,0,0
+Chicago Blackhawks,Blackhawks,8,8.0,7,1,0,1
+Chicago Blackhawks,CHI,15,15.0,14,2,2,1
+Blackhawks,CHI,8,9.0,9,3,3,1
+Washington Capitals,Chicago Blackhawks,14,21.0,31,2,0,0
+Chicago Blackhawks,MIN,17,19.0,16,3,3,0
+SEA,Chicago Blackhawks,17,19.0,16,3,3,0
+Colorado Avalanche,Avalanche,9,9.0,8,1,0,1
+Colorado Avalanche,COL,15,15.0,14,2,2,1
+Avalanche,COL,8,10.0,8,3,3,1
+Los Angeles Kings,COL,15,16.0,14,3,3,0
+COL,Pittsburgh Penguins,19,22.0,17,3,3,0
+NYR,Colorado Avalanche,17,19.0,16,3,3,0
+Columbus Blue Jackets,Blue Jackets,9,9.0,8,1,0,1
+Columbus Blue Jackets,CBJ,18,18.0,18,0.0,0.0,1
+Blue Jackets,CBJ,11,11.0,10,1,1,1
+DET,Blue Jackets,10,11.0,10,3,3,0
+Blue Jackets,Panthers,10,14.0,15,2,0,0
+CHI,Blue Jackets,11,13.0,10,3,3,0
+Dallas Stars,Stars,7,7.0,6,1,0,1
+Dallas Stars,DAL,9,9.0,8,2,2,1
+Stars,DAL,4,6.0,4,3,3,1
+New Jersey Devils,Stars,15,18.0,16,3,0,0
+Wild,Dallas Stars,11,14.0,11,2,0,0
+BUF,Stars,5,8.0,4,3,3,0
+Detroit Red Wings,Red Wings,8,8.0,7,1,0,1
+Detroit Red Wings,DET,14,14.0,12,2,2,1
+Red Wings,DET,8,10.0,7,3,3,1
+Blackhawks,Red Wings,9,15.0,14,2,0,0
+Red Wings,Wild,7,9.0,8,1,0,0
+Senators,DET,6,7.0,7,3,3,0
+Edmonton Oilers,Oilers,9,9.0,8,1,0,1
+Edmonton Oilers,EDM,12,12.0,11,2,2,1
+Oilers,EDM,5,7.0,5,3,3,1
+Hurricanes,EDM,10,11.0,9,3,3,0
+Anaheim Ducks,EDM,11,12.0,11,2,2,0
+Flyers,Oilers,3,4.0,6,1,0,0
+Florida Panthers,Panthers,8,8.0,7,1,0,1
+Florida Panthers,FLA,13,13.0,14,2,2,1
+Panthers,FLA,8,9.0,7,3,3,1
+Panthers,Hurricanes,9,10.0,14,1,0,0
+Florida Panthers,Devils,14,16.0,17,2,0,0
+Columbus Blue Jackets,FLA,19,20.0,18,3,3,0
+Los Angeles Kings,Kings,12,12.0,10,2,0,1
+Los Angeles Kings,LA,15,15.0,13,1,1,1
+Kings,LA,5,7.0,3,2,2,1
+Los Angeles Kings,Blackhawks,14,19.0,21,3,0,0
+LA,Islanders,7,7.0,7,2,2,0
+Vegas Golden Knights,LA,19,20.0,16,3,3,0
+Minnesota Wild,Wild,10,10.0,9,1,0,1
+Minnesota Wild,MIN,11,11.0,10,2,2,1
+Wild,MIN,3,5.0,3,3,3,1
+MIN,OTT,3,6.0,2,3,3,0
+Rangers,Minnesota Wild,12,15.0,16,2,0,0
+Dallas Stars,MIN,12,15.0,10,3,3,0
+Montreal Canadiens,Canadiens,9,9.0,8,1,0,1
+Montreal Canadiens,MTL,15,15.0,16,2,2,1
+Canadiens,MTL,9,12.0,8,3,3,1
+MTL,Blue Jackets,11,13.0,10,3,3,0
+DAL,MTL,2,4.0,2,2,2,0
+Predators,Montreal Canadiens,14,19.0,22,2,0,0
+Nashville Predators,Predators,10,10.0,9,1,0,1
+Nashville Predators,NSH,16,16.0,17,2,2,1
+Predators,NSH,9,10.0,8,3,3,1
+CAR,NSH,3,6.0,2,3,3,0
+NSH,OTT,3,6.0,2,3,3,0
+Predators,New York Islanders,14,19.0,21,3,0,0
+New Jersey Devils,Devils,11,11.0,9,2,0,1
+New Jersey Devils,NJ,15,15.0,13,1,1,1
+Devils,NJ,6,8.0,4,2,2,1
+VGK,NJ,3,5.0,1,3,3,0
+Tampa Bay Lightning,Devils,18,23.0,19,3,0,0
+NJ,Oilers,6,8.0,4,2,2,0
+New York Islanders,Islanders,9,9.0,7,2,0,1
+New York Islanders,NYI,15,15.0,15,0.0,0.0,1
+Islanders,NYI,8,10.0,8,2,2,1
+Oilers,New York Islanders,12,12.0,16,3,0,0
+Blue Jackets,Islanders,9,13.0,16,2,0,0
+NYI,Los Angeles Kings,15,16.0,14,3,3,0
+New York Rangers,Rangers,9,9.0,7,2,0,1
+New York Rangers,NYR,13,13.0,13,0.0,0.0,1
+Rangers,NYR,5,6.0,6,2,2,1
+Avalanche,New York Rangers,14,19.0,19,3,0,0
+Edmonton Oilers,NYR,13,14.0,13,3,3,0
+New York Islanders,New York Rangers,4,6.0,14,1,0,0
+Ottawa Senators,Senators,7,7.0,6,1,0,1
+Ottawa Senators,OTT,12,12.0,11,2,2,1
+Senators,OTT,7,9.0,7,3,3,1
+Senators,Nashville Predators,12,13.0,16,2,0,0
+Panthers,Ottawa Senators,11,13.0,18,2,0,0
+OTT,ARI,3,6.0,2,3,3,0
+Philadelphia Flyers,Flyers,13,13.0,12,1,0,1
+Philadelphia Flyers,PHI,16,16.0,15,2,2,1
+Flyers,PHI,6,9.0,5,3,3,1
+Nashville Predators,Philadelphia Flyers,15,22.0,32,2,0,0
+MTL,Philadelphia Flyers,18,20.0,17,3,3,0
+PHI,Pittsburgh Penguins,16,16.0,17,2,2,0
+Pittsburgh Penguins,Penguins,11,11.0,10,1,0,1
+Pittsburgh Penguins,PIT,16,16.0,15,2,2,1
+Penguins,PIT,6,7.0,7,2,2,1
+PIT,CAL,3,6.0,2,3,3,0
+PIT,Buffalo Sabres,14,17.0,12,3,3,0
+TB,PIT,3,3.0,1,3,3,0
+San Jose Sharks,Sharks,9,9.0,7,2,0,1
+San Jose Sharks,SJ,13,13.0,11,1,1,1
+Sharks,SJ,5,6.0,4,1,1,1
+Sharks,Sabres,3,4.0,8,0.0,0,0
+Sharks,Coyotes,6,11.0,9,1,0,0
+SJ,Minnesota Wild,13,14.0,11,2,2,0
+Seattle Kraken,Kraken,8,8.0,7,1,0,1
+Seattle Kraken,SEA,11,11.0,10,2,2,1
+Kraken,SEA,5,7.0,5,3,3,1
+SEA,Islanders,7,8.0,8,3,3,0
+Boston Bruins,SEA,12,14.0,11,3,3,0
+Devils,Kraken,6,10.0,8,1,0,0
+St. Louis Blues,Blues,9,9.0,7,2,0,1
+St. Louis Blues,STL,11,11.0,9,2,2,1
+Blues,STL,5,6.0,4,3,3,1
+STL,NSH,3,4.0,2,3,3,0
+CHI,Blues,5,8.0,4,3,3,0
+Edmonton Oilers,STL,13,14.0,13,3,3,0
+Tampa Bay Lightning,Lightning,10,10.0,8,2,0,1
+Tampa Bay Lightning,TB,17,17.0,15,1,1,1
+Lightning,TB,8,9.0,7,2,2,1
+Stars,Lightning,8,12.0,10,1,0,0
+Vancouver Canucks,Tampa Bay Lightning,17,28.0,29,3,0,0
+NYI,Tampa Bay Lightning,17,18.0,16,3,3,0
+Toronto Maple Leafs,Maple Leafs,8,8.0,7,1,0,1
+Toronto Maple Leafs,TOR,16,16.0,14,2,2,1
+Maple Leafs,TOR,11,14.0,9,3,3,1
+Maple Leafs,Nashville Predators,12,16.0,24,2,0,0
+Toronto Maple Leafs,BOS,17,18.0,16,3,3,0
+Washington Capitals,Toronto Maple Leafs,14,22.0,31,3,0,0
+Vancouver Canucks,Canucks,10,10.0,9,1,0,1
+Vancouver Canucks,VAN,14,14.0,13,2,2,1
+Canucks,VAN,5,6.0,6,3,3,1
+Senators,VAN,7,9.0,7,3,3,0
+VAN,BUF,3,6.0,2,3,3,0
+Vancouver Canucks,Avalanche,12,16.0,19,2,0,0
+Vegas Golden Knights,Golden Knights,6,6.0,5,1,0,1
+Vegas Golden Knights,VGK,17,17.0,17,0.0,0.0,1
+Golden Knights,VGK,13,13.0,12,1,1,1
+VGK,CAR,3,6.0,2,3,3,0
+Golden Knights,LA,13,14.0,11,2,2,0
+VGK,Jets,4,7.0,3,3,3,0
+Washington Capitals,Capitals,11,11.0,10,1,0,1
+Washington Capitals,WAS,16,16.0,15,2,2,1
+Capitals,WAS,6,7.0,7,3,3,1
+New York Rangers,Capitals,14,20.0,18,3,0,0
+Capitals,SEA,7,9.0,7,3,3,0
+Montreal Canadiens,WAS,16,17.0,16,3,3,0
+Winnipeg Jets,Jets,9,9.0,8,1,0,1
+Winnipeg Jets,WPG,10,10.0,11,2,2,1
+Jets,WPG,4,7.0,3,3,3,1
+WPG,Los Angeles Kings,16,18.0,14,3,3,0
+Carolina Hurricanes,Jets,18,19.0,18,2,0,0
+Canadiens,Jets,7,9.0,9,1,0,0
+Arizona Cardinals,Cardinals,8,8.0,7,1,0,1
+Arizona Cardinals,ARI,14,14.0,13,2,2,1
+Cardinals,ARI,6,6.0,8,3,3,1
+Dallas Cowboys,Arizona Cardinals,14,21.0,25,1,0,0
+Arizona Cardinals,Seattle Seahawks,15,23.0,27,2,0,0
+San Francisco 49ers,ARI,16,16.0,16,3,3,0
+Atlanta Falcons,Falcons,8,8.0,7,1,0,1
+Atlanta Falcons,ATL,12,12.0,11,2,2,1
+Falcons,ATL,6,6.0,6,3,3,1
+Dallas Cowboys,ATL,12,13.0,12,3,3,0
+CLE,Atlanta Falcons,14,16.0,13,3,3,0
+NO,Atlanta Falcons,13,13.0,12,2,2,0
+Baltimore Ravens,Ravens,10,10.0,9,1,0,1
+Baltimore Ravens,BAL,13,13.0,12,2,2,1
+Ravens,BAL,5,7.0,5,3,3,1
+Panthers,BAL,7,9.0,7,3,3,0
+Ravens,TEN,4,5.0,5,3,3,0
+Baltimore Ravens,Panthers,11,14.0,19,2,0,0
+Buffalo Bills,Bills,8,8.0,7,1,0,1
+Buffalo Bills,BUF,10,10.0,9,2,2,1
+Bills,BUF,4,6.0,4,2,2,1
+PHI,Buffalo Bills,12,14.0,11,3,3,0
+BUF,Atlanta Falcons,14,16.0,13,2,2,0
+Bills,Denver Broncos,12,15.0,14,1,0,0
+Carolina Panthers,Panthers,9,9.0,8,1,0,1
+Carolina Panthers,CAR,14,14.0,13,2,2,1
+Panthers,CAR,6,7.0,7,3,3,1
+CAR,BAL,2,4.0,2,2,2,0
+New York Jets,Carolina Panthers,14,22.0,23,3,0,0
+CAR,LA Chargers,8,8.0,9,2,2,0
+Chicago Bears,Bears,8,8.0,7,1,0,1
+Chicago Bears,CHI,10,10.0,9,2,2,1
+Bears,CHI,5,8.0,4,3,3,1
+CHI,Cleveland Browns,15,17.0,14,2,2,0
+Carolina Panthers,Bears,14,16.0,17,2,0,0
+Miami Dolphins,CHI,12,13.0,12,3,3,0
+Cincinnati Bengals,Bengals,11,11.0,10,1,0,1
+Cincinnati Bengals,CIN,15,15.0,14,2,2,1
+Bengals,CIN,6,8.0,6,3,3,1
+Green Bay Packers,CIN,16,18.0,14,3,3,0
+Denver Broncos,Bengals,11,15.0,16,1,0,0
+CIN,LAR,3,6.0,2,3,3,0
+Cleveland Browns,Browns,10,10.0,9,1,0,1
+Cleveland Browns,CLE,13,13.0,12,2,2,1
+Browns,CLE,6,9.0,5,3,3,1
+Seahawks,Cleveland Browns,12,16.0,19,2,0,0
+Vikings,Cleveland Browns,13,17.0,18,2,0,0
+CLE,Buffalo Bills,12,14.0,11,3,3,0
+Dallas Cowboys,Cowboys,7,7.0,6,1,0,1
+Dallas Cowboys,DAL,11,11.0,10,2,2,1
+Cowboys,DAL,7,10.0,6,3,3,1
+Cowboys,TB,6,7.0,5,2,2,0
+DAL,PHI,3,6.0,2,3,3,0
+DAL,Bears,4,6.0,4,3,3,0
+Denver Broncos,Broncos,7,7.0,6,1,0,1
+Denver Broncos,DEN,11,11.0,10,2,2,1
+Broncos,DEN,6,8.0,6,3,3,1
+Broncos,NE,6,7.0,5,2,2,0
+DEN,Miami Dolphins,12,13.0,12,3,3,0
+Denver Broncos,Lions,11,13.0,14,2,0,0
+Detroit Lions,Lions,8,8.0,7,1,0,1
+Detroit Lions,DET,10,10.0,9,2,2,1
+Lions,DET,5,8.0,4,3,3,1
+DET,HOU,3,6.0,2,3,3,0
+DET,Dallas Cowboys,13,15.0,12,2,2,0
+Lions,Giants,3,5.0,7,1,0,0
+Green Bay Packers,Packers,10,10.0,8,2,0,1
+Green Bay Packers,GB,15,15.0,13,1,1,1
+Packers,GB,7,9.0,5,2,2,1
+Green Bay Packers,Lions,15,18.0,16,3,0,0
+GB,New York Jets,13,15.0,9,3,3,0
+Packers,Denver Broncos,11,15.0,16,2,0,0
+Houston Texans,Texans,8,8.0,7,1,0,1
+Houston Texans,HOU,11,11.0,10,2,2,1
+Texans,HOU,6,9.0,5,3,3,1
+Carolina Panthers,Houston Texans,14,19.0,25,2,0,0
+Houston Texans,New York Giants,11,19.0,22,3,0,0
+Houston Texans,Seahawks,12,14.0,17,2,0,0
+Indianapolis Colts,Colts,13,13.0,12,1,0,1
+Indianapolis Colts,IND,15,15.0,14,2,2,1
+Colts,IND,5,8.0,4,3,3,1
+Indianapolis Colts,Chicago Bears,13,21.0,25,2,0,0
+IND,Broncos,6,8.0,6,3,3,0
+Buffalo Bills,Indianapolis Colts,13,21.0,25,2,0,0
+Jacksonville Jaguars,Jaguars,13,13.0,12,1,0,1
+Jacksonville Jaguars,JAX,18,19.0,18,2,2,1
+Jaguars,JAX,5,6.0,6,2,2,1
+Texans,Jacksonville Jaguars,17,20.0,21,2,0,0
+JAX,Denver Broncos,14,17.0,12,3,3,0
+JAX,Rams,3,5.0,3,3,3,0
+Kansas City Chiefs,Chiefs,12,12.0,10,2,0,1
+Kansas City Chiefs,KC,16,16.0,14,1,1,1
+Chiefs,KC,6,6.0,4,1,1,1
+BAL,Kansas City Chiefs,17,19.0,15,3,3,0
+Chiefs,Tampa Bay Buccaneers,17,20.0,20,3,0,0
+Chiefs,Arizona Cardinals,14,17.0,18,1,0,0
+Las Vegas Raiders,Vegas Raiders,4,4.0,3,1,0,1
+Las Vegas Raiders,Raiders,10,10.0,8,2,0,1
+Las Vegas Raiders,LV,15,15.0,13,1,1,1
+Vegas Raiders,Raiders,6,6.0,5,1,0,1
+Vegas Raiders,LV,13,13.0,10,2,2,1
+Raiders,LV,7,9.0,5,2,2,1
+LV,DET,3,5.0,1,3,3,0
+Las Vegas Raiders,Packers,13,16.0,16,3,0,0
+Raiders,ATL,6,8.0,6,3,3,0
+Raiders,Pittsburgh Steelers,15,18.0,19,2,0,0
+Chiefs,Vegas Raiders,10,13.0,14,2,0,0
+Raiders,Bears,5,6.0,8,1,0,0
+Los Angeles Chargers,LA Chargers,9,9.0,12,0.0,0,1
+Los Angeles Chargers,Chargers,12,12.0,10,2,0,1
+Los Angeles Chargers,LAC,17,17.0,17,0.0,0.0,1
+LA Chargers,Chargers,3,3.0,2,2,0,1
+LA Chargers,LAC,8,8.0,7,0.0,0.0,1
+Chargers,LAC,7,9.0,7,2,2,1
+Los Angeles Chargers,Seahawks,15,18.0,22,3,0,0
+Chargers,LAR,6,7.0,7,3,3,0
+Los Angeles Chargers,ATL,18,19.0,17,3,3,0
+Chargers,Houston Texans,12,16.0,17,2,0,0
+LAC,Los Angeles Rams,14,15.0,13,1,1,0
+Arizona Cardinals,LAC,15,16.0,15,1,1,0
+Los Angeles Rams,LA Rams,9,9.0,12,0.0,0,1
+Los Angeles Rams,Rams,12,12.0,10,2,0,1
+Los Angeles Rams,LAR,13,13.0,13,0.0,0.0,1
+LA Rams,Rams,3,3.0,2,2,0,1
+LA Rams,LAR,4,4.0,3,0.0,0.0,1
+Rams,LAR,3,5.0,3,2,2,1
+LA Rams,Denver Broncos,11,15.0,15,3,0,0
+Patriots,LA Rams,5,9.0,10,3,0,0
+Rams,Browns,4,6.0,6,1,0,0
+Rams,Cleveland Browns,14,16.0,15,2,0,0
+Rams,San Francisco 49ers,16,17.0,17,3,0,0
+LAR,Browns,6,7.0,5,3,3,0
+Miami Dolphins,Dolphins,6,6.0,5,1,0,1
+Miami Dolphins,MIA,11,11.0,10,2,2,1
+Dolphins,MIA,7,9.0,7,3,3,1
+Seahawks,Miami Dolphins,12,16.0,17,2,0,0
+Browns,Dolphins,6,8.0,10,1,0,0
+Giants,MIA,4,5.0,5,3,3,0
+Minnesota Vikings,Vikings,10,10.0,9,1,0,1
+Minnesota Vikings,MIN,14,14.0,13,2,2,1
+Vikings,MIN,5,6.0,6,3,3,1
+DEN,Vikings,6,8.0,6,3,3,0
+Minnesota Vikings,Eagles,14,15.0,18,2,0,0
+Vikings,CAR,7,10.0,6,3,3,0
+New England Patriots,Patriots,12,12.0,10,2,0,1
+New England Patriots,NE,18,18.0,16,1,1,1
+Patriots,NE,8,10.0,6,2,2,1
+WAS,New England Patriots,17,17.0,17,3,3,0
+Patriots,NY Jets,6,11.0,10,3,0,0
+NE,New Orleans Saints,16,16.0,14,2,2,0
+New Orleans Saints,Saints,12,12.0,10,2,0,1
+New Orleans Saints,NO,16,16.0,14,1,1,1
+Saints,NO,5,6.0,4,2,2,1
+Commanders,New Orleans Saints,14,20.0,22,3,0,0
+NO,Rams,4,6.0,2,2,2,0
+Raiders,New Orleans Saints,15,17.0,19,3,0,0
+New York Giants,NY Giants,6,6.0,9,0.0,0,1
+New York Giants,Giants,9,9.0,7,2,0,1
+New York Giants,NYG,12,12.0,12,0.0,0.0,1
+NY Giants,Giants,3,3.0,2,2,0,1
+NY Giants,NYG,6,6.0,5,0.0,0.0,1
+Giants,NYG,5,7.0,5,2,2,1
+Raiders,NYG,7,10.0,6,3,3,0
+Cardinals,NY Giants,7,12.0,13,3,0,0
+CLE,Giants,6,9.0,5,3,3,0
+Giants,Dallas Cowboys,12,16.0,15,2,0,0
+NYG,BUF,3,6.0,2,3,3,0
+LA Rams,Giants,6,9.0,8,3,0,0
+New York Jets,NY Jets,6,6.0,9,0.0,0,1
+New York Jets,Jets,9,9.0,7,2,0,1
+New York Jets,NYJ,10,10.0,10,0.0,0.0,1
+NY Jets,Jets,3,3.0,2,2,0,1
+NY Jets,NYJ,4,4.0,3,0.0,0.0,1
+Jets,NYJ,4,5.0,3,2,2,1
+49ers,NYJ,5,8.0,4,3,3,0
+NY Jets,49ers,5,8.0,7,3,0,0
+Jets,Browns,5,8.0,6,1,0,0
+NE,New York Jets,11,11.0,9,2,2,0
+Los Angeles Rams,NYJ,15,17.0,13,3,3,0
+New York Jets,Buffalo Bills,12,20.0,19,3,0,0
+Philadelphia Eagles,Eagles,13,13.0,12,1,0,1
+Philadelphia Eagles,PHI,16,16.0,15,2,2,1
+Eagles,PHI,6,9.0,5,3,3,1
+New York Giants,Philadelphia Eagles,16,26.0,27,3,0,0
+Philadelphia Eagles,Saints,16,19.0,20,2,0,0
+Eagles,SF,6,6.0,4,2,2,0
+Pittsburgh Steelers,Steelers,11,11.0,10,1,0,1
+Pittsburgh Steelers,PIT,16,16.0,15,2,2,1
+Steelers,PIT,8,9.0,7,3,3,1
+PIT,49ers,5,8.0,4,3,3,0
+Pittsburgh Steelers,Dolphins,17,21.0,22,2,0,0
+Los Angeles Rams,Pittsburgh Steelers,16,21.0,26,3,0,0
+San Francisco 49ers,49ers,14,14.0,12,2,0,1
+San Francisco 49ers,SF,17,17.0,15,1,1,1
+49ers,SF,5,5.0,3,2,2,1
+SF,NY Jets,7,7.0,4,3,3,0
+49ers,Patriots,6,9.0,9,1,0,0
+Patriots,SF,8,8.0,6,2,2,0
+Seattle Seahawks,Seahawks,8,8.0,7,1,0,1
+Seattle Seahawks,SEA,13,13.0,12,2,2,1
+Seahawks,SEA,5,5.0,5,2,2,1
+Patriots,SEA,8,9.0,7,3,3,0
+Seattle Seahawks,ATL,13,13.0,14,3,3,0
+Seattle Seahawks,Ravens,13,16.0,17,2,0,0
+Tampa Bay Buccaneers,Buccaneers,10,10.0,8,2,0,1
+Tampa Bay Buccaneers,TB,18,18.0,16,1,1,1
+Buccaneers,TB,10,10.0,8,1,1,1
+PHI,Buccaneers,10,13.0,9,3,3,0
+Los Angeles Rams,Buccaneers,10,14.0,20,3,0,0
+Buccaneers,49ers,7,9.0,9,1,0,0
+Tennessee Titans,Titans,10,10.0,9,1,0,1
+Tennessee Titans,TEN,13,13.0,12,2,2,1
+Titans,TEN,4,5.0,5,2,2,1
+Cardinals,Titans,6,9.0,11,1,0,0
+Titans,Colts,5,7.0,7,1,0,0
+TEN,Las Vegas Raiders,16,18.0,14,3,3,0
+Washington Commanders,Commanders,11,11.0,10,1,0,1
+Washington Commanders,WAS,18,18.0,17,2,2,1
+Commanders,WAS,8,9.0,9,3,3,1
+WAS,BAL,2,4.0,2,2,2,0
+Commanders,Baltimore Ravens,13,18.0,21,2,0,0
+PHI,Washington Commanders,19,20.0,19,3,3,0

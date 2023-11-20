@@ -30,7 +30,7 @@ def remove_newlines(rows):
         output.append(row)
     return output
 
-with open("teams_raw.csv", "r") as teams_raw:
+with open("nhl.csv", "r") as teams_raw:
     rows = teams_raw.readlines()
     rows = remove_newlines(rows)
     table = []
@@ -43,7 +43,7 @@ with open("teams_raw.csv", "r") as teams_raw:
     #   ["phrase", "phrase"],
     #   ......
     # ]
-    with open("phrases.csv", "a") as phrases:
+    with open("nhl_phrases.csv", "a") as phrases:
         table_ind = 0
         for row in table:
             combo_list = all_possible_combinations(row)
