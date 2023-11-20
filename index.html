@@ -2,18 +2,46 @@
     <head>
         <title> AI fuzzy matching </title>
         <script>
+          function displayPred(e){
+            var resp = JSON.parse(e.target.response);
+            var message = resp.match ? "Match" : "Not a match";
+            document.getElementById("result").innerHTML = message;
+          }
             function getPred(){
                 var str1 = document.getElementById('str1').value;
                 var str2 = document.getElementById("str2").value;
                 str1 = str1.replace(" ", "%20");
                 str2 = str2.replace(" ", "%20");
-                window.open("https://aifuzzy.mbdqwfss.repl.co?str1=" + str1 + "&str2=" + str2, "_blank");
+                var call = new XMLHttpRequest();
+                call.addEventListener("load", displayPred);
+                call.open("GET", "https://script.google.com/macros/s/AKfycbzqx4POWZ8Q7AKdrp66o-uxgQz9C8UtlEdPWWlRC4Fqd3gKqeKAg9M1OR2NJFUVja8Ivw/exec?str1=" + str1 + "&str2=" + str2);
+                call.send();
+                document.getElementById("result").innerHTML = "Loading...";
             }
         </script>
+      <style>
+        h1{
+          width: 30%;
+        }
+        input{
+          font-size: 120%;
+        }
+        button{
+          font-size: 150%;
+        }
+      </style>
     </head>
     <body>
-        <input type = "text" id = "str1" value = "Manchester United" />
-        <input type = "text" id = "str2" value = "Man Utd" />
+      <center>
+      <h1> Team 1</h1>
+        <input type = "text" id = "str1" value = "Manchester United" /> <br>
+      <h1> Team 2</h1>
+        <input type = "text" id = "str2" value = "Man Utd" /> <br>
+        <br>
         <button onclick = "getPred()"> Get prediction</button>
+        <h1 id = "result"></h1>
+        <h2> API is available at https://script.google.com/macros/s/AKfycbzqx4POWZ8Q7AKdrp66o-uxgQz9C8UtlEdPWWlRC4Fqd3gKqeKAg9M1OR2NJFUVja8Ivw/exec with query string parameters str1 and str2 </h2>
+        <h2> Or http://15.222.62.247:8080 </h2>
+      </center>
     </body>
 </html>
