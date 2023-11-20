@@ -1,0 +1,236 @@
+Atlanta Hawks,Hawks,True
+Atlanta Hawks,ATL,True
+Hawks,ATL,True
+PHI,Hawks,False
+Sacramento Kings,ATL,False
+Bucks,ATL,False
+Boston Celtics,Celtics,True
+Boston Celtics,BOS,True
+Celtics,BOS,True
+Celtics,NOP,False
+Timberwolves,BOS,False
+Magic,BOS,False
+Brooklyn Nets,Nets,True
+Brooklyn Nets,BKN,True
+Nets,BKN,True
+Philadelphia 76ers,Brooklyn Nets,False
+BKN,Detroit Pistons,False
+Cavaliers,BKN,False
+Charlotte Hornets,Hornets,True
+Charlotte Hornets,CHA,True
+Hornets,CHA,True
+Wizards,Hornets,False
+Hornets,Minnesota Timberwolves,False
+CHA,Milwaukee Bucks,False
+Chicago Bulls,Bulls,True
+Chicago Bulls,CHI,True
+Bulls,CHI,True
+CHI,Boston Celtics,False
+CHI,Celtics,False
+LAC,Chicago Bulls,False
+Cleveland Cavaliers,Cavaliers,True
+Cleveland Cavaliers,Cavs,True
+Cleveland Cavaliers,CLE,True
+Cavaliers,Cavs,True
+Cavaliers,CLE,True
+Cavs,CLE,True
+ATL,Cavaliers,False
+Cavaliers,UTA,False
+Milwaukee Bucks,Cleveland Cavaliers,False
+Miami Heat,Cavs,False
+OKC,Cavaliers,False
+Raptors,Cavs,False
+Dallas Mavericks,Mavericks,True
+Dallas Mavericks,Mavs,True
+Dallas Mavericks,DAL,True
+Mavericks,Mavs,True
+Mavericks,DAL,True
+Mavs,DAL,True
+DAL,Celtics,False
+Memphis Grizzlies,DAL,False
+Dallas Mavericks,ATL,False
+Dallas Mavericks,Pistons,False
+Mavs,Thunder,False
+Dallas Mavericks,Cavaliers,False
+Denver Nuggets,Nuggets,True
+Denver Nuggets,DEN,True
+Nuggets,DEN,True
+Pistons,DEN,False
+Denver Nuggets,BKN,False
+DEN,Memphis Grizzlies,False
+Detroit Pistons,Pistons,True
+Detroit Pistons,DET,True
+Pistons,DET,True
+IND,Detroit Pistons,False
+Utah Jazz,Pistons,False
+Pistons,Houston Rockets,False
+Golden State Warriors,Warriors,True
+Golden State Warriors,GSW,True
+Golden State Warriors,Golden State,True
+Warriors,GSW,True
+Warriors,Golden State,True
+GSW,Golden State,True
+Boston Celtics,Golden State Warriors,False
+GSW,Bucks,False
+Golden State,DET,False
+Los Angeles Lakers,Golden State,False
+Houston Rockets,GSW,False
+Celtics,GSW,False
+Houston Rockets,Rockets,True
+Houston Rockets,HOU,True
+Rockets,HOU,True
+Hornets,Houston Rockets,False
+New York Knicks,HOU,False
+Rockets,Mavericks,False
+Indiana Pacers,Pacers,True
+Indiana Pacers,IND,True
+Pacers,IND,True
+Indiana Pacers,Nets,False
+OKC,Pacers,False
+Pacers,Blazers,False
+LA Clippers,Clippers,True
+LA Clippers,LAC,True
+Clippers,LAC,True
+LA Clippers,DAL,False
+LAC,Jazz,False
+Utah Jazz,LA Clippers,False
+Los Angeles Lakers,Lakers,True
+Los Angeles Lakers,LAL,True
+Los Angeles Lakers,LA Lakers,True
+Los Angeles Lakers,Lakeshow,True
+Lakers,LAL,True
+Lakers,LA Lakers,True
+Lakers,Lakeshow,True
+LAL,LA Lakers,True
+LAL,Lakeshow,True
+LA Lakers,Lakeshow,True
+Lakeshow,Raptors,False
+Knicks,Los Angeles Lakers,False
+LAL,MIN,False
+MIL,LAL,False
+LA Clippers,LAL,False
+Lakeshow,Rockets,False
+Lakeshow,Blazers,False
+LAL,Denver Nuggets,False
+LA Lakers,Mavs,False
+76ers,Lakeshow,False
+Memphis Grizzlies,Grizzlies,True
+Memphis Grizzlies,MEM,True
+Grizzlies,MEM,True
+Memphis Grizzlies,CHI,False
+Grizzlies,Milwaukee Bucks,False
+Indiana Pacers,Grizzlies,False
+Miami Heat,Heat,True
+Miami Heat,MIA,True
+Heat,MIA,True
+MIA,Cleveland Cavaliers,False
+MIA,Wizards,False
+Miami Heat,Chicago Bulls,False
+Milwaukee Bucks,Bucks,True
+Milwaukee Bucks,MIL,True
+Bucks,MIL,True
+Oklahoma City Thunder,Milwaukee Bucks,False
+Miami Heat,Milwaukee Bucks,False
+Magic,MIL,False
+Minnesota Timberwolves,Timberwolves,True
+Minnesota Timberwolves,Wolves,True
+Minnesota Timberwolves,MIN,True
+Timberwolves,Wolves,True
+Timberwolves,MIN,True
+Wolves,MIN,True
+TOR,Timberwolves,False
+Heat,Minnesota Timberwolves,False
+Timberwolves,Cavs,False
+Wolves,MIA,False
+Wolves,76ers,False
+Minnesota Timberwolves,TOR,False
+New Orleans Pelicans,Pelicans,True
+New Orleans Pelicans,NOP,True
+New Orleans Pelicans,NOLA,True
+Pelicans,NOP,True
+Pelicans,NOLA,True
+NOP,NOLA,True
+OKC,NOP,False
+NOP,CHI,False
+NYK,Pelicans,False
+New Orleans Pelicans,Rockets,False
+New Orleans Pelicans,Los Angeles Lakers,False
+NOLA,DET,False
+New York Knicks,Knicks,True
+New York Knicks,NYK,True
+Knicks,NYK,True
+NYK,Jazz,False
+Knicks,Magic,False
+New York Knicks,Milwaukee Bucks,False
+Oklahoma City Thunder,Thunder,True
+Oklahoma City Thunder,OKC,True
+Thunder,OKC,True
+Thunder,Suns,False
+Chicago Bulls,Oklahoma City Thunder,False
+Knicks,Thunder,False
+Orlando Magic,Magic,True
+Orlando Magic,ORL,True
+Magic,ORL,True
+SAC,ORL,False
+Orlando Magic,MEM,False
+76ers,ORL,False
+Philadelphia 76ers,76ers,True
+Philadelphia 76ers,Sixers,True
+Philadelphia 76ers,PHI,True
+76ers,Sixers,True
+76ers,PHI,True
+Sixers,PHI,True
+WAS,PHI,False
+Philadelphia 76ers,Clippers,False
+NYK,76ers,False
+Philadelphia 76ers,MIL,False
+PHI,BKN,False
+Sixers,BKN,False
+Phoenix Suns,Suns,True
+Phoenix Suns,PHX,True
+Suns,PHX,True
+Wolves,PHX,False
+PHX,BKN,False
+SA,Phoenix Suns,False
+Portland Trail Blazers,Trail Blazers,True
+Portland Trail Blazers,Blazers,True
+Portland Trail Blazers,POR,True
+Trail Blazers,Blazers,True
+Trail Blazers,POR,True
+Blazers,POR,True
+Portland Trail Blazers,MIL,False
+Thunder,POR,False
+Trail Blazers,Raptors,False
+Nuggets,Trail Blazers,False
+Suns,Trail Blazers,False
+WAS,Portland Trail Blazers,False
+Sacramento Kings,Kings,True
+Sacramento Kings,SAC,True
+Kings,SAC,True
+BOS,SAC,False
+Sacramento Kings,Chicago Bulls,False
+Rockets,Kings,False
+San Antonio Spurs,Spurs,True
+San Antonio Spurs,SA,True
+Spurs,SA,True
+SAC,Spurs,False
+Spurs,BOS,False
+Spurs,Utah Jazz,False
+Toronto Raptors,Raptors,True
+Toronto Raptors,TOR,True
+Raptors,TOR,True
+Raptors,Grizzlies,False
+TOR,Atlanta Hawks,False
+DAL,Raptors,False
+Utah Jazz,Jazz,True
+Utah Jazz,UTA,True
+Jazz,UTA,True
+Washington Wizards,UTA,False
+Jazz,Orlando Magic,False
+Utah Jazz,Rockets,False
+Washington Wizards,Wizards,True
+Washington Wizards,WAS,True
+Wizards,WAS,True
+WAS,ORL,False
+WAS,Philadelphia 76ers,False
+Wizards,BKN,False

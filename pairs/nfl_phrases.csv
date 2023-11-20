@@ -1,0 +1,222 @@
+Arizona Cardinals,Cardinals,True
+Arizona Cardinals,ARI,True
+Cardinals,ARI,True
+Dallas Cowboys,Arizona Cardinals,False
+Arizona Cardinals,Seattle Seahawks,False
+San Francisco 49ers,ARI,False
+Atlanta Falcons,Falcons,True
+Atlanta Falcons,ATL,True
+Falcons,ATL,True
+Dallas Cowboys,ATL,False
+CLE,Atlanta Falcons,False
+NO,Atlanta Falcons,False
+Baltimore Ravens,Ravens,True
+Baltimore Ravens,BAL,True
+Ravens,BAL,True
+Panthers,BAL,False
+Ravens,TEN,False
+Baltimore Ravens,Panthers,False
+Buffalo Bills,Bills,True
+Buffalo Bills,BUF,True
+Bills,BUF,True
+PHI,Buffalo Bills,False
+BUF,Atlanta Falcons,False
+Bills,Denver Broncos,False
+Carolina Panthers,Panthers,True
+Carolina Panthers,CAR,True
+Panthers,CAR,True
+CAR,BAL,False
+New York Jets,Carolina Panthers,False
+CAR,LA Chargers,False
+Chicago Bears,Bears,True
+Chicago Bears,CHI,True
+Bears,CHI,True
+CHI,Cleveland Browns,False
+Carolina Panthers,Bears,False
+Miami Dolphins,CHI,False
+Cincinnati Bengals,Bengals,True
+Cincinnati Bengals,CIN,True
+Bengals,CIN,True
+Green Bay Packers,CIN,False
+Denver Broncos,Bengals,False
+CIN,LAR,False
+Cleveland Browns,Browns,True
+Cleveland Browns,CLE,True
+Browns,CLE,True
+Seahawks,Cleveland Browns,False
+Vikings,Cleveland Browns,False
+CLE,Buffalo Bills,False
+Dallas Cowboys,Cowboys,True
+Dallas Cowboys,DAL,True
+Cowboys,DAL,True
+Cowboys,TB,False
+DAL,PHI,False
+DAL,Bears,False
+Denver Broncos,Broncos,True
+Denver Broncos,DEN,True
+Broncos,DEN,True
+Broncos,NE,False
+DEN,Miami Dolphins,False
+Denver Broncos,Lions,False
+Detroit Lions,Lions,True
+Detroit Lions,DET,True
+Lions,DET,True
+DET,HOU,False
+DET,Dallas Cowboys,False
+Lions,Giants,False
+Green Bay Packers,Packers,True
+Green Bay Packers,GB,True
+Packers,GB,True
+Green Bay Packers,Lions,False
+GB,New York Jets,False
+Packers,Denver Broncos,False
+Houston Texans,Texans,True
+Houston Texans,HOU,True
+Texans,HOU,True
+Carolina Panthers,Houston Texans,False
+Houston Texans,New York Giants,False
+Houston Texans,Seahawks,False
+Indianapolis Colts,Colts,True
+Indianapolis Colts,IND,True
+Colts,IND,True
+Indianapolis Colts,Chicago Bears,False
+IND,Broncos,False
+Buffalo Bills,Indianapolis Colts,False
+Jacksonville Jaguars,Jaguars,True
+Jacksonville Jaguars,JAX,True
+Jaguars,JAX,True
+Texans,Jacksonville Jaguars,False
+JAX,Denver Broncos,False
+JAX,Rams,False
+Kansas City Chiefs,Chiefs,True
+Kansas City Chiefs,KC,True
+Chiefs,KC,True
+BAL,Kansas City Chiefs,False
+Chiefs,Tampa Bay Buccaneers,False
+Chiefs,Arizona Cardinals,False
+Las Vegas Raiders,Vegas Raiders,True
+Las Vegas Raiders,Raiders,True
+Las Vegas Raiders,LV,True
+Vegas Raiders,Raiders,True
+Vegas Raiders,LV,True
+Raiders,LV,True
+LV,DET,False
+Las Vegas Raiders,Packers,False
+Raiders,ATL,False
+Raiders,Pittsburgh Steelers,False
+Chiefs,Vegas Raiders,False
+Raiders,Bears,False
+Los Angeles Chargers,LA Chargers,True
+Los Angeles Chargers,Chargers,True
+Los Angeles Chargers,LAC,True
+LA Chargers,Chargers,True
+LA Chargers,LAC,True
+Chargers,LAC,True
+Los Angeles Chargers,Seahawks,False
+Chargers,LAR,False
+Los Angeles Chargers,ATL,False
+Chargers,Houston Texans,False
+LAC,Los Angeles Rams,False
+Arizona Cardinals,LAC,False
+Los Angeles Rams,LA Rams,True
+Los Angeles Rams,Rams,True
+Los Angeles Rams,LAR,True
+LA Rams,Rams,True
+LA Rams,LAR,True
+Rams,LAR,True
+LA Rams,Denver Broncos,False
+Patriots,LA Rams,False
+Rams,Browns,False
+Rams,Cleveland Browns,False
+Rams,San Francisco 49ers,False
+LAR,Browns,False
+Miami Dolphins,Dolphins,True
+Miami Dolphins,MIA,True
+Dolphins,MIA,True
+Seahawks,Miami Dolphins,False
+Browns,Dolphins,False
+Giants,MIA,False
+Minnesota Vikings,Vikings,True
+Minnesota Vikings,MIN,True
+Vikings,MIN,True
+DEN,Vikings,False
+Minnesota Vikings,Eagles,False
+Vikings,CAR,False
+New England Patriots,Patriots,True
+New England Patriots,NE,True
+Patriots,NE,True
+WAS,New England Patriots,False
+Patriots,NY Jets,False
+NE,New Orleans Saints,False
+New Orleans Saints,Saints,True
+New Orleans Saints,NO,True
+Saints,NO,True
+Commanders,New Orleans Saints,False
+NO,Rams,False
+Raiders,New Orleans Saints,False
+New York Giants,NY Giants,True
+New York Giants,Giants,True
+New York Giants,NYG,True
+NY Giants,Giants,True
+NY Giants,NYG,True
+Giants,NYG,True
+Raiders,NYG,False
+Cardinals,NY Giants,False
+CLE,Giants,False
+Giants,Dallas Cowboys,False
+NYG,BUF,False
+LA Rams,Giants,False
+New York Jets,NY Jets,True
+New York Jets,Jets,True
+New York Jets,NYJ,True
+NY Jets,Jets,True
+NY Jets,NYJ,True
+Jets,NYJ,True
+49ers,NYJ,False
+NY Jets,49ers,False
+Jets,Browns,False
+NE,New York Jets,False
+Los Angeles Rams,NYJ,False
+New York Jets,Buffalo Bills,False
+Philadelphia Eagles,Eagles,True
+Philadelphia Eagles,PHI,True
+Eagles,PHI,True
+New York Giants,Philadelphia Eagles,False
+Philadelphia Eagles,Saints,False
+Eagles,SF,False
+Pittsburgh Steelers,Steelers,True
+Pittsburgh Steelers,PIT,True
+Steelers,PIT,True
+PIT,49ers,False
+Pittsburgh Steelers,Dolphins,False
+Los Angeles Rams,Pittsburgh Steelers,False
+San Francisco 49ers,49ers,True
+San Francisco 49ers,SF,True
+49ers,SF,True
+SF,NY Jets,False
+49ers,Patriots,False
+Patriots,SF,False
+Seattle Seahawks,Seahawks,True
+Seattle Seahawks,SEA,True
+Seahawks,SEA,True
+Patriots,SEA,False
+Seattle Seahawks,ATL,False
+Seattle Seahawks,Ravens,False
+Tampa Bay Buccaneers,Buccaneers,True
+Tampa Bay Buccaneers,TB,True
+Buccaneers,TB,True
+PHI,Buccaneers,False
+Los Angeles Rams,Buccaneers,False
+Buccaneers,49ers,False
+Tennessee Titans,Titans,True
+Tennessee Titans,TEN,True
+Titans,TEN,True
+Cardinals,Titans,False
+Titans,Colts,False
+TEN,Las Vegas Raiders,False
+Washington Commanders,Commanders,True
+Washington Commanders,WAS,True
+Commanders,WAS,True
+WAS,BAL,False
+Commanders,Baltimore Ravens,False
+PHI,Washington Commanders,False

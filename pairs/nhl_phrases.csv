@@ -1,0 +1,192 @@
+Anaheim Ducks,Ducks,True
+Anaheim Ducks,ANA,True
+Ducks,ANA,True
+Ducks,Edmonton Oilers,False
+ANA,Minnesota Wild,False
+Ducks,WPG,False
+Arizona Coyotes,Coyotes,True
+Arizona Coyotes,ARI,True
+Coyotes,ARI,True
+ARI,Los Angeles Kings,False
+Kings,Arizona Coyotes,False
+OTT,Coyotes,False
+Boston Bruins,Bruins,True
+Boston Bruins,BOS,True
+Bruins,BOS,True
+Bruins,Stars,False
+Bruins,EDM,False
+WPG,BOS,False
+Buffalo Sabres,Sabres,True
+Buffalo Sabres,BUF,True
+Sabres,BUF,True
+BUF,Vegas Golden Knights,False
+BUF,Detroit Red Wings,False
+BUF,Florida Panthers,False
+Calgary Flames,Flames,True
+Calgary Flames,CAL,True
+Flames,CAL,True
+CAL,St. Louis Blues,False
+DET,Flames,False
+Flames,Colorado Avalanche,False
+Carolina Hurricanes,Hurricanes,True
+Carolina Hurricanes,CAR,True
+Hurricanes,CAR,True
+Lightning,CAR,False
+Montreal Canadiens,Carolina Hurricanes,False
+Hurricanes,Sabres,False
+Chicago Blackhawks,Blackhawks,True
+Chicago Blackhawks,CHI,True
+Blackhawks,CHI,True
+Washington Capitals,Chicago Blackhawks,False
+Chicago Blackhawks,MIN,False
+SEA,Chicago Blackhawks,False
+Colorado Avalanche,Avalanche,True
+Colorado Avalanche,COL,True
+Avalanche,COL,True
+Los Angeles Kings,COL,False
+COL,Pittsburgh Penguins,False
+NYR,Colorado Avalanche,False
+Columbus Blue Jackets,Blue Jackets,True
+Columbus Blue Jackets,CBJ,True
+Blue Jackets,CBJ,True
+DET,Blue Jackets,False
+Blue Jackets,Panthers,False
+CHI,Blue Jackets,False
+Dallas Stars,Stars,True
+Dallas Stars,DAL,True
+Stars,DAL,True
+New Jersey Devils,Stars,False
+Wild,Dallas Stars,False
+BUF,Stars,False
+Detroit Red Wings,Red Wings,True
+Detroit Red Wings,DET,True
+Red Wings,DET,True
+Blackhawks,Red Wings,False
+Red Wings,Wild,False
+Senators,DET,False
+Edmonton Oilers,Oilers,True
+Edmonton Oilers,EDM,True
+Oilers,EDM,True
+Hurricanes,EDM,False
+Anaheim Ducks,EDM,False
+Flyers,Oilers,False
+Florida Panthers,Panthers,True
+Florida Panthers,FLA,True
+Panthers,FLA,True
+Panthers,Hurricanes,False
+Florida Panthers,Devils,False
+Columbus Blue Jackets,FLA,False
+Los Angeles Kings,Kings,True
+Los Angeles Kings,LA,True
+Kings,LA,True
+Los Angeles Kings,Blackhawks,False
+LA,Islanders,False
+Vegas Golden Knights,LA,False
+Minnesota Wild,Wild,True
+Minnesota Wild,MIN,True
+Wild,MIN,True
+MIN,OTT,False
+Rangers,Minnesota Wild,False
+Dallas Stars,MIN,False
+Montreal Canadiens,Canadiens,True
+Montreal Canadiens,MTL,True
+Canadiens,MTL,True
+MTL,Blue Jackets,False
+DAL,MTL,False
+Predators,Montreal Canadiens,False
+Nashville Predators,Predators,True
+Nashville Predators,NSH,True
+Predators,NSH,True
+CAR,NSH,False
+NSH,OTT,False
+Predators,New York Islanders,False
+New Jersey Devils,Devils,True
+New Jersey Devils,NJ,True
+Devils,NJ,True
+VGK,NJ,False
+Tampa Bay Lightning,Devils,False
+NJ,Oilers,False
+New York Islanders,Islanders,True
+New York Islanders,NYI,True
+Islanders,NYI,True
+Oilers,New York Islanders,False
+Blue Jackets,Islanders,False
+NYI,Los Angeles Kings,False
+New York Rangers,Rangers,True
+New York Rangers,NYR,True
+Rangers,NYR,True
+Avalanche,New York Rangers,False
+Edmonton Oilers,NYR,False
+New York Islanders,New York Rangers,False
+Ottawa Senators,Senators,True
+Ottawa Senators,OTT,True
+Senators,OTT,True
+Senators,Nashville Predators,False
+Panthers,Ottawa Senators,False
+OTT,ARI,False
+Philadelphia Flyers,Flyers,True
+Philadelphia Flyers,PHI,True
+Flyers,PHI,True
+Nashville Predators,Philadelphia Flyers,False
+MTL,Philadelphia Flyers,False
+PHI,Pittsburgh Penguins,False
+Pittsburgh Penguins,Penguins,True
+Pittsburgh Penguins,PIT,True
+Penguins,PIT,True
+PIT,CAL,False
+PIT,Buffalo Sabres,False
+TB,PIT,False
+San Jose Sharks,Sharks,True
+San Jose Sharks,SJ,True
+Sharks,SJ,True
+Sharks,Sabres,False
+Sharks,Coyotes,False
+SJ,Minnesota Wild,False
+Seattle Kraken,Kraken,True
+Seattle Kraken,SEA,True
+Kraken,SEA,True
+SEA,Islanders,False
+Boston Bruins,SEA,False
+Devils,Kraken,False
+St. Louis Blues,Blues,True
+St. Louis Blues,STL,True
+Blues,STL,True
+STL,NSH,False
+CHI,Blues,False
+Edmonton Oilers,STL,False
+Tampa Bay Lightning,Lightning,True
+Tampa Bay Lightning,TB,True
+Lightning,TB,True
+Stars,Lightning,False
+Vancouver Canucks,Tampa Bay Lightning,False
+NYI,Tampa Bay Lightning,False
+Toronto Maple Leafs,Maple Leafs,True
+Toronto Maple Leafs,TOR,True
+Maple Leafs,TOR,True
+Maple Leafs,Nashville Predators,False
+Toronto Maple Leafs,BOS,False
+Washington Capitals,Toronto Maple Leafs,False
+Vancouver Canucks,Canucks,True
+Vancouver Canucks,VAN,True
+Canucks,VAN,True
+Senators,VAN,False
+VAN,BUF,False
+Vancouver Canucks,Avalanche,False
+Vegas Golden Knights,Golden Knights,True
+Vegas Golden Knights,VGK,True
+Golden Knights,VGK,True
+VGK,CAR,False
+Golden Knights,LA,False
+VGK,Jets,False
+Washington Capitals,Capitals,True
+Washington Capitals,WAS,True
+Capitals,WAS,True
+New York Rangers,Capitals,False
+Capitals,SEA,False
+Montreal Canadiens,WAS,False
+Winnipeg Jets,Jets,True
+Winnipeg Jets,WPG,True
+Jets,WPG,True
+WPG,Los Angeles Kings,False
+Carolina Hurricanes,Jets,False
+Canadiens,Jets,False
